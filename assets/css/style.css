@@ -140,6 +140,10 @@ body {
   padding: 20px;
 }
 
+.layout .header i {
+  color: var(--primary-color);
+}
+
 .layout .content {
   padding: 40px 90px 50px;
   display: flex;
