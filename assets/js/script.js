@@ -1,4 +1,4 @@
-$('#navbar').load('/navbar.html', function (data) {
+$('#navbar').load('navbar.html', function (data) {
     $('#navbar').replaceWith(data);
 
     const ANIMATION_DURATION = 300;
